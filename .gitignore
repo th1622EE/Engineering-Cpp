@@ -3,3 +3,6 @@
 
 # CMake stuff
 *.cmake 
+
+# Build dir
+build
