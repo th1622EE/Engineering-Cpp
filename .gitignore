@@ -1,2 +1,13 @@
+<<<<<<< HEAD
 # VS Code stuff
 .vscode
+=======
+# Annoying vs code specific config files
+.vscode
+
+# CMake stuff
+*.cmake 
+
+# Build dir
+build
+>>>>>>> refs/remotes/origin/main
